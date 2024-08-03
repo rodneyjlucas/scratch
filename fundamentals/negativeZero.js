@@ -1,5 +1,4 @@
 // Negative Zero / -0
-// https://medium.com/coding-at-dawn/is-negative-zero-0-a-number-in-javascript-c62739f80114
 // +0 is the same as 0
 
 //
